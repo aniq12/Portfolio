@@ -6,7 +6,6 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
-import AdsComponent from '../AdsComponent';
 
 function About() {
   return (
@@ -44,8 +43,6 @@ function About() {
         <h1 className="project-heading">
           <strong className="purple">Tools</strong> I use
         </h1>
-        <h1>Place To show Google AdSense</h1>
-        <AdsComponent dataAdSlot='4490191573' />
         <Toolstack />
 
         <Github />
