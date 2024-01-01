@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Aniq Shehyar Raid </span>
             from <span className="purple"> Bekasi, Indonesia.</span>
-            <br />I'm 13 y.o, I'm currently learning to program some web and IOT devices.
+            <br />I'm 14 y.o, I'm currently learning to program some web and IOT devices.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
